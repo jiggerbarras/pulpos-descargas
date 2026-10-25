@@ -1,0 +1,142 @@
+[
+  {
+    "version": "1.4.3",
+    "publicada": "2026-10-24",
+    "notas": "Meseros solo por mesa, con PIN (Ajustes › Negocio y factura).\nCada pedido y comanda queda a nombre del mesero que puso su PIN.\nOpción para empezar en Mesas y venta más fácil.\nMás seguridad en PIN y sesiones.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.3/PULPOS-Instalador-1.4.3.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.3/PULPOS-Portable-1.4.3.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.3/PULPOS-1.4.3-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.3/PULPOS-1.4.3-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      }
+    ]
+  },
+  {
+    "version": "1.4.2",
+    "publicada": "2026-10-24",
+    "notas": "Opción para empezar en Mesas.\nVenta más fácil: buscador de productos y mesa visible.\nMás seguridad: PIN protegidos y bloqueo tras 5 PIN malos.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.2/PULPOS-Instalador-1.4.2.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.2/PULPOS-Portable-1.4.2.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.2/PULPOS-1.4.2-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.2/PULPOS-1.4.2-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      }
+    ]
+  },
+  {
+    "version": "1.4.1",
+    "publicada": "2026-10-24",
+    "notas": "Sube las ventas, cierres de caja e inventario a PULPOS web cuando hay internet.\nLa caja sigue funcionando igual sin internet.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.1/PULPOS-Instalador-1.4.1.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.1/PULPOS-Portable-1.4.1.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.1/PULPOS-1.4.1-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.1/PULPOS-1.4.1-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      }
+    ]
+  },
+  {
+    "version": "1.4.0",
+    "publicada": "2026-10-23",
+    "notas": "Inventario, modo oscuro y activación con clave por PC.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.0/PULPOS-Instalador-1.4.0.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.0/PULPOS-Portable-1.4.0.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.0/PULPOS-1.4.0-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.0/PULPOS-1.4.0-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      }
+    ]
+  }
+]
