@@ -1,5 +1,47 @@
 [
   {
+    "version": "1.4.6",
+    "publicada": "2026-10-25",
+    "notas": "Arregla la comanda que reimprimía toda la mesa y duplicaba productos al agregar algo.\nBotón Pre-cuenta en una mesa abierta sin cambios.\nColores de estado en Mesas (libre, ocupada, pre-cuenta) con cliente, monto y mesero.\nVenta directa: activada, secundaria o desactivada.\nCopiar y pegar en Mac.\nCuenta agrupada también en el celular.\nNueva app de meseros para Android.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.6/PULPOS-Instalador-1.4.6.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.6/PULPOS-Portable-1.4.6.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.6/PULPOS-1.4.6-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.6/PULPOS-1.4.6-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      },
+      {
+        "plataforma": "android",
+        "nombre": "Android · App de meseros",
+        "detalle": "PULPOS Meseros 1.0, para el celular",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.6/PULPOS-Meseros-1.0.apk",
+        "tamano": "67 KB"
+      }
+    ]
+  },
+  {
     "version": "1.4.5",
     "publicada": "2026-10-25",
     "notas": "Cuenta y factura agrupadas: productos iguales salen en una sola línea con la cantidad sumada (ej. \"4 AGUA\").\nTickets en texto nítido para impresoras térmicas (ESC/POS), con opción sin tildes.\nEl PIN entra solo al escribir el último dígito.",
