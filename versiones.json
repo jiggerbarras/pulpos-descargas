@@ -1,5 +1,40 @@
 [
   {
+    "version": "1.4.5",
+    "publicada": "2026-10-25",
+    "notas": "Cuenta y factura agrupadas: productos iguales salen en una sola línea con la cantidad sumada (ej. \"4 AGUA\").\nTickets en texto nítido para impresoras térmicas (ESC/POS), con opción sin tildes.\nEl PIN entra solo al escribir el último dígito.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.5/PULPOS-Instalador-1.4.5.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.5/PULPOS-Portable-1.4.5.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.5/PULPOS-1.4.5-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.5/PULPOS-1.4.5-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      }
+    ]
+  },
+  {
     "version": "1.4.3",
     "publicada": "2026-10-24",
     "notas": "Meseros solo por mesa, con PIN (Ajustes › Negocio y factura).\nCada pedido y comanda queda a nombre del mesero que puso su PIN.\nOpción para empezar en Mesas y venta más fácil.\nMás seguridad en PIN y sesiones.",
