@@ -1,5 +1,47 @@
 [
   {
+    "version": "1.4.9",
+    "publicada": "2026-10-26",
+    "notas": "Diseño Clásico con cuadros de productos cuadrados: nombre completo y la foto llena el cuadro.\nInventario en vivo en la esquina de cada producto (se activa en Inventario › \"Ver stock en Vender\").\nMac: sigue la 1.4.7.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.9/PULPOS-Instalador-1.4.9.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.9/PULPOS-Portable-1.4.9.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "Versión 1.4.7 · M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-1.4.7-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Versión 1.4.7 · Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-1.4.7-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      },
+      {
+        "plataforma": "android",
+        "nombre": "Android · App de meseros",
+        "detalle": "PULPOS Meseros 1.0, para el celular",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.9/PULPOS-Meseros-1.0.apk",
+        "tamano": "67 KB"
+      }
+    ]
+  },
+  {
     "version": "1.4.8",
     "publicada": "2026-10-26",
     "notas": "Diseño Clásico o Simple, a elegir en cada equipo.\nLos meseros solo ven las mesas (sin \"Pedidos abiertos\" ni reimprimir comandas).\nEn Vender el cursor queda siempre en Buscar.\nMac: sigue la 1.4.7.",
