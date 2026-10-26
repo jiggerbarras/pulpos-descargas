@@ -1,5 +1,47 @@
 [
   {
+    "version": "1.4.7",
+    "publicada": "2026-10-26",
+    "notas": "Modo estación: varias PC, la caja cobra y cada estación imprime sus comandas y pre-cuentas (cada estación con su propia licencia).\nLas claves con vencimiento valen hasta el final del último día, en hora local.\nEl tiempo ya no se sale de la tarjeta de mesa.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-Instalador-1.4.7.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-Portable-1.4.7.zip",
+        "tamano": "75 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-1.4.7-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-1.4.7-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      },
+      {
+        "plataforma": "android",
+        "nombre": "Android · App de meseros",
+        "detalle": "PULPOS Meseros 1.0, para el celular",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-Meseros-1.0.apk",
+        "tamano": "67 KB"
+      }
+    ]
+  },
+  {
     "version": "1.4.6",
     "publicada": "2026-10-25",
     "notas": "Arregla la comanda que reimprimía toda la mesa y duplicaba productos al agregar algo.\nBotón Pre-cuenta en una mesa abierta sin cambios.\nColores de estado en Mesas (libre, ocupada, pre-cuenta) con cliente, monto y mesero.\nVenta directa: activada, secundaria o desactivada.\nCopiar y pegar en Mac.\nCuenta agrupada también en el celular.\nNueva app de meseros para Android.",
