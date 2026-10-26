@@ -2,7 +2,7 @@
   {
     "version": "1.4.9",
     "publicada": "2026-10-26",
-    "notas": "Diseño Clásico con cuadros de productos cuadrados: nombre completo y la foto llena el cuadro.\nInventario en vivo en la esquina de cada producto (se activa en Inventario › \"Ver stock en Vender\").\nMac: sigue la 1.4.7.",
+    "notas": "Diseño Clásico con cuadros de productos cuadrados: nombre completo y la foto llena el cuadro.\nInventario en vivo en la esquina de cada producto (se activa en Inventario › \"Ver stock en Vender\").\nVersión a la vista: el número de versión sale en la pantalla del PIN, junto al usuario (Clásico) y en el menú del usuario (Simple).\nMac: sigue la 1.4.7.",
     "enlaces": [
       {
         "plataforma": "windows",
