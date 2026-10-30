@@ -1,0 +1,7 @@
+PULPOS 1.4.12 en partes
+
+1. Descargue las 7 partes (PULPOS-Instalador-1.4.12.exe.001, .002...) y el archivo UNIR-PULPOS.bat a una misma carpeta.
+2. Haga doble clic en UNIR-PULPOS.bat. Se crea PULPOS-Instalador-1.4.12.exe.
+3. Abra PULPOS-Instalador-1.4.12.exe para instalar.
+
+Tambien puede abrir la parte .001 con 7-Zip y extraerla.
