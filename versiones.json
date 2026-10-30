@@ -2,7 +2,7 @@
   {
     "version": "1.4.11",
     "publicada": "2026-10-28",
-    "notas": "Nueva pantalla de Impresoras: lista con Probar, recibos y comandas por separado, categorías tocando.\nConfigurar paso a paso: USB o red, para qué es, prueba de impresión.\nBuscar impresoras en la red sin escribir la IP.\nDrivers 2Connet V6, V7, V8 y V10 incluidos: se instalan desde el asistente, sin internet.\nMac: sigue la 1.4.7.\nNuevo: PULPOS Caja 1.0 para tablet Android, funciona como caja completa sin PC (imprime por USB, Bluetooth o red).",
+    "notas": "Nueva pantalla de Impresoras: lista con Probar, recibos y comandas por separado, categorías tocando.\nConfigurar paso a paso: USB o red, para qué es, prueba de impresión.\nBuscar impresoras en la red sin escribir la IP.\nDrivers 2Connet V6, V7, V8 y V10 incluidos: se instalan desde el asistente, sin internet.\nMac: sigue la 1.4.7.\nNuevo: PULPOS Caja 1.0.1 para tablet Android, funciona como caja completa sin PC (imprime por USB, Bluetooth o red).",
     "enlaces": [
       {
         "plataforma": "windows",
@@ -42,8 +42,8 @@
       {
         "plataforma": "android",
         "nombre": "Android · PULPOS Caja (tablet)",
-        "detalle": "Caja completa en la tablet, sin PC · versión 1.0 · Android 7 o más nuevo",
-        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/caja-1.0/PULPOS-Caja-1.0.apk",
+        "detalle": "Caja completa en la tablet, sin PC · versión 1.0.1 · Android 7 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/caja-1.0.1/PULPOS-Caja-1.0.1.apk",
         "tamano": "35 MB"
       }
     ]
