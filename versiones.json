@@ -2,7 +2,7 @@
   {
     "version": "1.4.12",
     "publicada": "2026-10-30",
-    "notas": "Catálogo de productos con fotos y categorías.\nNuevo perfil Dueño: entra escaneando el QR del evento y ve ventas, gráficos, caja e inventario sin poder cambiar nada.\nPantallas que se adaptan a tablets y celulares.\nAnular una mesa con productos directamente desde la mesa.\nCierre de caja en ventana: conteo por billetes y monedas (RD$), tarjeta y transferencia declaradas, y cantidad vendida de cada producto.\nMac: sigue la 1.4.7.\nPULPOS Caja para tablet actualizada a 1.4.12 (se instala encima de la anterior).",
+    "notas": "Catálogo de productos: guarda los productos de cada evento y elígelos para el próximo evento.\nNuevo perfil Dueño: entra escaneando el QR del evento y ve ventas, gráficos, caja e inventario sin poder cambiar nada.\nPantallas que se adaptan a tablets y celulares.\nAnular una mesa con productos directamente desde la mesa.\nCierre de caja en ventana: conteo por billetes y monedas (RD$), tarjeta y transferencia declaradas, y cantidad vendida de cada producto.\nMac: sigue la 1.4.7.\nPULPOS Caja para tablet actualizada a 1.4.12 (se instala encima de la anterior).",
     "enlaces": [
       {
         "plataforma": "windows",
