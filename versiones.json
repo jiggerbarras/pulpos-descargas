@@ -1,5 +1,61 @@
 [
   {
+    "version": "1.4.18",
+    "publicada": "2026-10-30",
+    "notas": "Anular una mesa que ya tiene un pago (por ejemplo un asiento cobrado): el administrador toca el basurero y el sistema quita esos pagos antes de anular.\nEl botón Cobrar muestra lo que falta por pagar. La fecha del recibo sale como 31/10/2026 00:25.\nSi Chrome dice \"Virus detectado\", baje el instalador \"con clave\" (clave: pulpos). Es una falsa alarma porque el programa no tiene firma digital.\nIncluye todo lo de la 1.4.17: un papel de comanda por área, elegir mesero y pre-cuenta por asiento.\nMac: sigue la 1.4.7.\nPULPOS Caja para tablet actualizada a 1.4.18.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.18/PULPOS-Instalador-1.4.18.zip",
+        "tamano": "95 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador con clave",
+        "detalle": "Si Chrome lo bloquea · clave: pulpos",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.18/PULPOS-Instalador-1.4.18-con-clave.zip",
+        "tamano": "95 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.18/PULPOS-Portable-1.4.18.zip",
+        "tamano": "95 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "Versión 1.4.7 · M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-1.4.7-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Versión 1.4.7 · Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-1.4.7-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      },
+      {
+        "plataforma": "android",
+        "nombre": "Android · App de meseros",
+        "detalle": "PULPOS Meseros 1.0, para el celular",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.18/PULPOS-Meseros-1.0.apk",
+        "tamano": "67 KB"
+      },
+      {
+        "plataforma": "android",
+        "nombre": "Android · PULPOS Caja (tablet)",
+        "detalle": "Caja completa en la tablet, sin PC · versión 1.4.18 · Android 7 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.18/PULPOS-Caja-1.4.18.apk",
+        "tamano": "36 MB"
+      }
+    ]
+  },
+  {
     "version": "1.4.17",
     "publicada": "2026-10-30",
     "notas": "Comandas por área: si Cocina y Barra usan la misma impresora, sale un papel para cada área con solo sus productos.\nSi Chrome dice \"Virus detectado\", baje el instalador \"con clave\" (clave: pulpos). Es una falsa alarma porque el programa no tiene firma digital.\nIncluye todo lo de la 1.4.16: elegir mesero al abrir mesa y pre-cuenta por asiento.\nMac: sigue la 1.4.7.\nPULPOS Caja para tablet actualizada a 1.4.17.",
