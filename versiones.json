@@ -2,7 +2,7 @@
   {
     "version": "1.4.34",
     "publicada": "2026-11-13",
-    "notas": "Nuevo: opciones al vender (modificadores). En la ficha del producto se agregan preguntas con sus opciones, ej: Tequila 1800 › Mezcla: Coca-Cola, Toronja, Red Bull (+100).\nAl tocar el producto, PULPOS pregunta con cuál va (PC, tablet y celular). La opción sale en el pedido, la comanda, el ticket y la factura: \"Tequila 1800 (Coca-Cola)\". Si la opción cuesta más, se suma.\nEl Excel de Subir archivo tiene la columna Opciones (ej: Mezcla: Coca-Cola, Sprite | Hielo: Con hielo, Sin hielo).\nIncluye todo lo de la 1.4.33 (subir productos desde Excel) y anteriores.\nSi Chrome dice \"Virus detectado\", baje el instalador \"con clave\" (clave: pulpos). Es una falsa alarma porque el programa no tiene firma digital.\nPULPOS Caja para tablet Android: 1.4.36 (se instala encima de la anterior sin perder datos). Nuevo en la tablet: baja sola los productos del evento creados en PULPOS web (precio, opciones, límite y en qué cajas se vende), cierre de caja con los productos de cada cortesía y Ajustes › Datos › Borrar ventas e inventario. Mac: sigue la 1.4.7.",
+    "notas": "Nuevo: opciones al vender (modificadores). En la ficha del producto se agregan preguntas con sus opciones, ej: Tequila 1800 › Mezcla: Coca-Cola, Toronja, Red Bull (+100).\nAl tocar el producto, PULPOS pregunta con cuál va (PC, tablet y celular). La opción sale en el pedido, la comanda, el ticket y la factura: \"Tequila 1800 (Coca-Cola)\". Si la opción cuesta más, se suma.\nEl Excel de Subir archivo tiene la columna Opciones (ej: Mezcla: Coca-Cola, Sprite | Hielo: Con hielo, Sin hielo).\nIncluye todo lo de la 1.4.33 (subir productos desde Excel) y anteriores.\nSi Chrome dice \"Virus detectado\", baje el instalador \"con clave\" (clave: pulpos). Es una falsa alarma porque el programa no tiene firma digital.\nPULPOS Caja para tablet Android: 1.4.37 (se instala encima de la anterior sin perder datos). Nuevo en la 1.4.37: en venta directa (sin mesa) los tickets de cada producto salen al cobrar o al dar la cortesía, no antes; en las mesas salen al enviar como siempre. También trae lo de la 1.4.36: baja sola los productos del evento creados en PULPOS web (precio, opciones, límite y en qué cajas se vende), cierre de caja con los productos de cada cortesía y Ajustes › Datos › Borrar ventas e inventario. Mac: sigue la 1.4.7.",
     "enlaces": [
       {
         "plataforma": "windows",
@@ -49,8 +49,8 @@
       {
         "plataforma": "android",
         "nombre": "Android · PULPOS Caja (tablet)",
-        "detalle": "Caja completa en la tablet, sin PC · versión 1.4.36 · Android 7 o más nuevo",
-        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.36/PULPOS-Caja-1.4.36.apk",
+        "detalle": "Caja completa en la tablet, sin PC · versión 1.4.37 · Android 7 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.37/PULPOS-Caja-1.4.37.apk",
         "tamano": "36 MB"
       }
     ]
