@@ -2,7 +2,7 @@
   {
     "version": "1.4.32",
     "publicada": "2026-11-13",
-    "notas": "Al conectar el equipo a PULPOS web, pregunta con qué productos trabaja ese evento: \"Solo los de este evento\" o \"Seguir con los mismos\".\nCon \"Solo los de este evento\", los productos de eventos pasados quedan en el Catálogo (no se pierden) y Vender queda vacío para marcar los del evento. Si había ventas del evento anterior, ese evento se cierra y queda una copia; nada viejo sube al evento nuevo.\nEl evento toma el nombre que tiene en la web.\nIncluye todo lo de la 1.4.31 (cajón de dinero, un ticket por producto, mesa anulada).\nSi Chrome dice \"Virus detectado\", baje el instalador \"con clave\" (clave: pulpos). Es una falsa alarma porque el programa no tiene firma digital.\nMac: sigue la 1.4.7. PULPOS Caja para tablet: sigue la 1.4.27.",
+    "notas": "Al conectar el equipo a PULPOS web, pregunta con qué productos trabaja ese evento: \"Solo los de este evento\" o \"Seguir con los mismos\".\nCon \"Solo los de este evento\", los productos de eventos pasados quedan en el Catálogo (no se pierden) y Vender queda vacío para marcar los del evento. Si había ventas del evento anterior, ese evento se cierra y queda una copia; nada viejo sube al evento nuevo.\nEl evento toma el nombre que tiene en la web.\nIncluye todo lo de la 1.4.31 (cajón de dinero, un ticket por producto, mesa anulada).\nSi Chrome dice \"Virus detectado\", baje el instalador \"con clave\" (clave: pulpos). Es una falsa alarma porque el programa no tiene firma digital.\nPULPOS Caja para tablet Android: también 1.4.32 (se instala encima de la anterior sin perder datos). Mac: sigue la 1.4.7.",
     "enlaces": [
       {
         "plataforma": "windows",
@@ -49,8 +49,8 @@
       {
         "plataforma": "android",
         "nombre": "Android · PULPOS Caja (tablet)",
-        "detalle": "Caja completa en la tablet, sin PC · versión 1.4.27 · Android 7 o más nuevo",
-        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.27/PULPOS-Caja-1.4.27.apk",
+        "detalle": "Caja completa en la tablet, sin PC · versión 1.4.32 · Android 7 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.32/PULPOS-Caja-1.4.32.apk",
         "tamano": "36 MB"
       }
     ]
