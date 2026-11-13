@@ -1,0 +1,1 @@
+PULPOS Caja 1.4.36 (tablet Android): productos del evento desde PULPOS web (con cajas por producto), cortesías en el cierre de caja y Borrar ventas e inventario.
