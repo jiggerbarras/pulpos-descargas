@@ -1,5 +1,61 @@
 [
   {
+    "version": "1.4.34",
+    "publicada": "2026-11-13",
+    "notas": "Nuevo: opciones al vender (modificadores). En la ficha del producto se agregan preguntas con sus opciones, ej: Tequila 1800 › Mezcla: Coca-Cola, Toronja, Red Bull (+100).\nAl tocar el producto, PULPOS pregunta con cuál va (PC, tablet y celular). La opción sale en el pedido, la comanda, el ticket y la factura: \"Tequila 1800 (Coca-Cola)\". Si la opción cuesta más, se suma.\nEl Excel de Subir archivo tiene la columna Opciones (ej: Mezcla: Coca-Cola, Sprite | Hielo: Con hielo, Sin hielo).\nIncluye todo lo de la 1.4.33 (subir productos desde Excel) y anteriores.\nSi Chrome dice \"Virus detectado\", baje el instalador \"con clave\" (clave: pulpos). Es una falsa alarma porque el programa no tiene firma digital.\nPULPOS Caja para tablet Android: también 1.4.34 (se instala encima de la anterior sin perder datos). Mac: sigue la 1.4.7.",
+    "enlaces": [
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador",
+        "detalle": "Recomendado",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.34/PULPOS-Instalador-1.4.34.zip",
+        "tamano": "95 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Instalador con clave",
+        "detalle": "Si Chrome lo bloquea · clave: pulpos",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.34/PULPOS-Instalador-1.4.34-con-clave.zip",
+        "tamano": "95 MB"
+      },
+      {
+        "plataforma": "windows",
+        "nombre": "Windows · Portable",
+        "detalle": "Sin instalar, desde USB",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.34/PULPOS-Portable-1.4.34.zip",
+        "tamano": "95 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Apple Silicon",
+        "detalle": "Versión 1.4.7 · M1, M2, M3 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-1.4.7-Mac-Apple-Silicon.dmg",
+        "tamano": "93 MB"
+      },
+      {
+        "plataforma": "mac",
+        "nombre": "Mac · Intel",
+        "detalle": "Versión 1.4.7 · Mac de antes de 2021",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.7/PULPOS-1.4.7-Mac-Intel.dmg",
+        "tamano": "98 MB"
+      },
+      {
+        "plataforma": "android",
+        "nombre": "Android · App de meseros",
+        "detalle": "PULPOS Meseros 1.0, para el celular",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.27/PULPOS-Meseros-1.0.apk",
+        "tamano": "67 KB"
+      },
+      {
+        "plataforma": "android",
+        "nombre": "Android · PULPOS Caja (tablet)",
+        "detalle": "Caja completa en la tablet, sin PC · versión 1.4.34 · Android 7 o más nuevo",
+        "url": "https://github.com/jiggerbarras/pulpos-descargas/raw/v1.4.34/PULPOS-Caja-1.4.34.apk",
+        "tamano": "36 MB"
+      }
+    ]
+  },
+  {
     "version": "1.4.33",
     "publicada": "2026-11-13",
     "notas": "Nuevo: subir productos desde un archivo (Ajustes › Productos › Subir archivo). Cargue todos los productos del evento de una vez con Excel o CSV: Producto, Precio, Categoría y Límite (opcional).\nTrae el botón \"Plantilla Excel\" con el formato listo. Antes de guardar muestra cuáles son nuevos, cuáles cambian de precio y las filas con error. Si un producto ya existe se actualiza, no se repite.\nSe puede agregar a los productos que ya hay o dejar solo los del archivo (los demás quedan en el Catálogo). El límite pone cuántos se pueden vender en el evento.\nIncluye todo lo de la 1.4.32 (productos del evento al conectar a la web) y la 1.4.31 (cajón de dinero, un ticket por producto, mesa anulada).\nSi Chrome dice \"Virus detectado\", baje el instalador \"con clave\" (clave: pulpos). Es una falsa alarma porque el programa no tiene firma digital.\nPULPOS Caja para tablet Android: también 1.4.33 (se instala encima de la anterior sin perder datos). Mac: sigue la 1.4.7.",
